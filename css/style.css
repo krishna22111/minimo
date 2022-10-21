@@ -1,0 +1,98 @@
+*{
+    color: #626262;
+    font-size: 14px;
+    margin-bottom: 20px;
+    /* margin: 0; */
+    /* padding: 0; */
+}
+header{
+    
+width: 90%;    
+margin: auto;
+overflow: hidden;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+
+margin: 30px;
+}
+.logo img{
+
+}
+.menu{
+
+width: 50%;
+
+float: right;
+}
+.menu ul{
+
+}
+.menu ul{
+
+list-style: none;
+
+float: right;
+}
+.menu ul li{
+
+float: left;
+
+margin: 30px;
+}
+.menu ul li a{
+
+color: #919191;
+
+text-decoration: none;
+
+text-transform: uppercase;
+}
+
+.banner{
+
+width: 90%;
+
+margin: auto;
+}
+.banner img{
+
+width: 100%;
+}
+.photodairy{
+
+width: 80%;
+
+margin: auto;
+}
+.photodairy h5{
+    
+color: #b4ad9e;
+    
+text-transform: uppercase;
+    
+margin: 40px auto;
+}
+.photodairy h1{
+    
+color: #626262;
+    
+font-size: 30px;
+    
+margin-bottom: 16px;
+}
+.photodairy a{
+    
+color: #626262;
+    
+margin-top: 20px;
+    
+text-decoration: none;
+    
+text-transform: uppercase;
+    
+font-size: 12px;
+}
